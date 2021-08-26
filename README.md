@@ -1,31 +1,36 @@
 ![Web Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/49617522_704236786637389_76751078464421888_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEL5Go21HZsJJRTNowWtdRi8SKx-1zYu_3xIrH7XNi7_VOYMKKO6SgoSNuogmGYj4kgG4io9sz1E9TeJnxTEg7o&_nc_ohc=85b9VcfQj0oAX9966RL&_nc_ht=scontent.fcgp17-1.fna&oh=a80757d3132147a405fd7632c515b5cf&oe=614E0084)
-### Hi there 👋, I'm Bablu Mia
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Bablu Mia</h1>
+<h3 align="center">Web Developer</h3>
 
-Learning Web Development. MERN stack web developer. Dedicated, like to work hard and I am always like to learn something new.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bablu22&label=Profile%20views&color=0e75b6&style=flat" alt="bablu22" /> </p>
 
-Skills: Node/ REACT / JS / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bablu22" alt="bablu22" /></a> </p>
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on others 
-- 💬 Ask me about web development 
-- 📫 How to reach me: mdbablu22.bablu22@gmail.com 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **JavaScript**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bablu22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bablu2620)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bablu_mia07/)  
+- 👯 I’m looking to collaborate on **others**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 👨‍💻 All of my projects are available at [https://github.com/Bablu22](https://github.com/Bablu22)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bablu22)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **Web Development**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu22)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mdbablu22.bablu22@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bablu22&show_icons=true&count_private=true)  
+- ⚡ Fun fact **I think I'm funny 😊**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bablu22)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/bablu2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bablu2620" height="30" width="40" /></a>
+<a href="https://instagram.com/bablu_mia07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bablu_mia07" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Bablu22)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bablu22)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu22&show_icons=true&locale=en&layout=compact" alt="bablu22" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Bablu22)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&locale=en" alt="bablu22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&" alt="bablu22" /></p>
