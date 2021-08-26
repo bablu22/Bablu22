@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/49617522_704236786637389_76751078464421888_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEL5Go21HZsJJRTNowWtdRi8SKx-1zYu_3xIrH7XNi7_VOYMKKO6SgoSNuogmGYj4kgG4io9sz1E9TeJnxTEg7o&_nc_ohc=85b9VcfQj0oAX9966RL&_nc_ht=scontent.fcgp17-1.fna&oh=a80757d3132147a405fd7632c515b5cf&oe=614E0084 width:200px;)
+![Web Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/49617522_704236786637389_76751078464421888_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEL5Go21HZsJJRTNowWtdRi8SKx-1zYu_3xIrH7XNi7_VOYMKKO6SgoSNuogmGYj4kgG4io9sz1E9TeJnxTEg7o&_nc_ohc=85b9VcfQj0oAX9966RL&_nc_ht=scontent.fcgp17-1.fna&oh=a80757d3132147a405fd7632c515b5cf&oe=614E0084)
 ### Hi there 👋, I'm Bablu Mia
 #### Web Developer
 
