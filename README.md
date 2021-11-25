@@ -27,6 +27,12 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
     <summary>Preview</summary>
     <img src="https://camo.githubusercontent.com/fe5613587ec5ae0d059e97ef0d711d34e4b8eee313d13292b58bd07b198cb644/68747470733a2f2f692e6962622e636f2f32376a7a686a322f53637265656e73686f742d312e706e67">
   </details>
+  
+- [Wiser University](https://github.com/Bablu22/react-wiser-university-website)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://camo.githubusercontent.com/b7cdc01edadc99d1862fac9f47b66724b6f654247cc98456c6218a59bc1d29e5/68747470733a2f2f692e6962622e636f2f736d516835594d2f57697365722d556e69766572736974792d476f6f676c652d4368726f6d652d31302d342d323032312d342d33302d34352d504d2d322e706e67">
+  </details>
 
 - 🌱 I’m currently learning **JavaScript**
 
