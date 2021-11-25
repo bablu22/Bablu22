@@ -8,6 +8,13 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- Recent projects
+- [Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://camo.githubusercontent.com/a0159c768473eb206d09db7046fdaaac657a30d9aa00f99eb0a56cf1bda62eb1/68747470733a2f2f692e6962622e636f2f484b42634737342f53637265656e73686f742d342e706e67">
+  </details>
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **others**
@@ -36,9 +43,4 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&" alt="bablu22" /></p>
 
 
-- [Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://camo.githubusercontent.com/a0159c768473eb206d09db7046fdaaac657a30d9aa00f99eb0a56cf1bda62eb1/68747470733a2f2f692e6962622e636f2f484b42634737342f53637265656e73686f742d342e706e67">
-  </details>
 
