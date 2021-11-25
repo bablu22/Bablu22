@@ -3,7 +3,17 @@
 <h2 align="center">Web Developer</h3>
 <img align="left" 
 width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="bablu22" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablu22&label=Profile%20views&color=0e75b6&style=flat" alt="bablu22" /> </p>
+- 🌱 I’m currently learning **JavaScript**
 
+- 👯 I’m looking to collaborate on **others**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Bablu22](https://github.com/Bablu22)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **mdbablu22.bablu22@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny 😊**
 
 <h1>Projects</h1>
 
@@ -37,17 +47,7 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
     <img src="https://i.ibb.co/JjkRZ4s/Screenshot-7.png">
   </details>
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **others**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Bablu22](https://github.com/Bablu22)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **mdbablu22.bablu22@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
