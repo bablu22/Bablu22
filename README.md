@@ -32,6 +32,12 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
     <summary>Preview</summary>
     <img src="https://camo.githubusercontent.com/b7cdc01edadc99d1862fac9f47b66724b6f654247cc98456c6218a59bc1d29e5/68747470733a2f2f692e6962622e636f2f736d516835594d2f57697365722d556e69766572736974792d476f6f676c652d4368726f6d652d31302d342d323032312d342d33302d34352d504d2d322e706e67">
   </details>
+  
+- [Travel Guru](https://github.com/Bablu22/Reaact-Travel-guru)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://i.ibb.co/JjkRZ4s/Screenshot-7.png">
+  </details>
 
 - 🌱 I’m currently learning **JavaScript**
 
