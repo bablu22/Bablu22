@@ -22,7 +22,7 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
 
 
 
-### Projects
+<h1 align="left">Hi 👋, Projects</h1>
 
 - [Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
   <details>
