@@ -8,6 +8,8 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h1>Projects</h1>
+<br/>
+
 - [Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
   <details>
     <summary>Preview</summary>
