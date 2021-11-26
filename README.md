@@ -43,6 +43,12 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
     <img src="https://camo.githubusercontent.com/fe5613587ec5ae0d059e97ef0d711d34e4b8eee313d13292b58bd07b198cb644/68747470733a2f2f692e6962622e636f2f32376a7a686a322f53637265656e73686f742d312e706e67">
   </details>
   
+- [Shotgear photography website](https://github.com/Bablu22/react-shotgear-client-side)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://i.ibb.co/djrpVpp/Screenshot-8.png">
+  </details>
+  
 - [Wiser University](https://github.com/Bablu22/react-wiser-university-website)
   <details>
     <summary>Preview</summary>
