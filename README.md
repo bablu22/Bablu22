@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Bablu Mia</h1>
-<h1 align="center">MERN Stack Developer</h1>
+<h2 align="center">MERN Stack Developer</h1>
 
 <!-- <h2 align="center">Web Developer</h3> -->
 <img align="left" 
