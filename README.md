@@ -15,9 +15,9 @@ width="50%"   src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fb
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mdbablu22.bablu22@gmail.com**
+- 📫 How to reach me **bablu.mia1@yahoo.com**
 
-- ⚡ Fun fact **I think I'm funny 😊**
+- ⚡ Fun fact **LOL 😊**
 
 <br/>
 <h1 align=""></h1>
