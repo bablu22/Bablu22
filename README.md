@@ -58,7 +58,7 @@
 
 <br/>  
 
-# My recent projectcs
+## Some projectcs
 
 
 - [React Full stack project--Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
