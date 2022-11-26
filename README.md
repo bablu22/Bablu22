@@ -54,42 +54,28 @@
 
 ## Some projectcs
   
-  <div>
-    
-  <div width="33%">
-  
+
 #### [Node JS E-commerce](https://github.com/Bablu22/MERN_E-commerce-Shop/tree/main/server)
 #### [Node JS Inventory](https://github.com/Bablu22/nodejs-inventory)
 #### [Node JS Raffl Draw](https://github.com/Bablu22/Express-Raffel-Draw-API)
 #### [Node JS Attendence system](https://github.com/Bablu22/Student-Attendance-System_Server)
 #### [Node JS & Passport JS Authentication](https://github.com/Bablu22/PassportJS-authentication)
   
-</div>
-
-<div width="33%">
+<br/>  
   
 #### [MERN Stack Tour Agency](https://github.com/Bablu22/react-natours-client)
 #### [MERN Stack Event Management](https://github.com/Bablu22/react-shotgear-client-side)
   
-</div>  
-
-<div width="33%">
+<br/>  
   
 #### [React Native Sound Shop](https://expo.dev/@bablu/sound-shop)
 #### [React Native Todo App](https://expo.dev/@bablu/newtodoapp)
 #### [React Native Delivero](https://expo.dev/@bablu/deliverro)
 #### [React Native Planet App](https://expo.dev/@bablu/first-app)
   
-</div>
-  
-  </div>
+
   
   
-| Tables   |      Are      |  React Native |
-|----------|:-------------:|--------------:|
-| col 1 is |  left-aligned |  #### [React Native Sound Shop](https://expo.dev/@bablu/sound-shop) |
-| col 2 is |    centered   | ####[React Native Todo App](https://expo.dev/@bablu/newtodoapp) |
-| col 3 is | right-aligned |  ####  [React Native Delivero](https://expo.dev/@bablu/deliverro) |
   
  
 ## Github Stats  
