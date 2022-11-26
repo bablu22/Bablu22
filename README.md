@@ -1,23 +1,23 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="cover" />
+<img width="100%" height = "450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
   
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+## About me
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on Github projects, blogs etc...
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
+- 🌱 I’m currently learning DSA, Node JS, AWS etc... 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source...
+- 💬 Talk to me about Programming, JavaScript, Freelancing Opportunites, Open Source...
   
 
 <br/>  
