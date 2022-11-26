@@ -101,7 +101,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
@@ -111,7 +111,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="" />
 </div>  
   
 
