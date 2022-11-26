@@ -53,6 +53,7 @@
 <br/>  
 
 ## Some projectcs
+  
 <div width="33%">
   
 #### [Node JS E-commerce](https://github.com/Bablu22/MERN_E-commerce-Shop/tree/main/server)
@@ -68,7 +69,7 @@
 #### [MERN Stack Tour Agency](https://github.com/Bablu22/react-natours-client)
 #### [MERN Stack Event Management](https://github.com/Bablu22/react-shotgear-client-side)
   
-<div/>  
+</div>  
 
 <div width="33%">
   
@@ -77,7 +78,7 @@
 #### [React Native Delivero](https://expo.dev/@bablu/deliverro)
 #### [React Native Planet App](https://expo.dev/@bablu/first-app)
   
-<div/>
+</div>
  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
