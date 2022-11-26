@@ -54,44 +54,8 @@
 
 ## Some projectcs
 
-
-- [React Full stack project--Lighting Craft](https://github.com/Bablu22/react-lighting-craft-client-side)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://camo.githubusercontent.com/a0159c768473eb206d09db7046fdaaac657a30d9aa00f99eb0a56cf1bda62eb1/68747470733a2f2f692e6962622e636f2f484b42634737342f53637265656e73686f742d342e706e67">
-  </details>
-  
-- [Reactc project--Logistic Express](https://github.com/Bablu22/react-logistic-express-client-side)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://camo.githubusercontent.com/21dab51cf22cf341dac8211ca58b65bf836d0f0ca9212a151738cbf5843de4a5/68747470733a2f2f692e6962622e636f2f394767435a71672f53637265656e73686f742d352e706e67">
-  </details>
-  
-- [React project--Medi Health](https://github.com/Bablu22/react-medi-health-website)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://camo.githubusercontent.com/fe5613587ec5ae0d059e97ef0d711d34e4b8eee313d13292b58bd07b198cb644/68747470733a2f2f692e6962622e636f2f32376a7a686a322f53637265656e73686f742d312e706e67">
-  </details>
-  
-- [React project--Shotgear photography website](https://github.com/Bablu22/react-shotgear-client-side)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://i.ibb.co/djrpVpp/Screenshot-8.png">
-  </details>
-  
-- [React project--Wiser University](https://github.com/Bablu22/react-wiser-university-website)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://camo.githubusercontent.com/b7cdc01edadc99d1862fac9f47b66724b6f654247cc98456c6218a59bc1d29e5/68747470733a2f2f692e6962622e636f2f736d516835594d2f57697365722d556e69766572736974792d476f6f676c652d4368726f6d652d31302d342d323032312d342d33302d34352d504d2d322e706e67">
-  </details>
-  
-- [Travel Guru](https://github.com/Bablu22/Reaact-Travel-guru)
-  <details>
-    <summary>Preview</summary>
-    <img src="https://i.ibb.co/JjkRZ4s/Screenshot-7.png">
-  </details>
-
-
+- Node JS E-commerce-> 
+- ![Node JS E-commerce](https://github.com/Bablu22/MERN_E-commerce-Shop/tree/main/server)
  
 
 
