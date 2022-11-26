@@ -54,7 +54,9 @@
 
 ## Some projectcs
   
-<div width="33%">
+  <div>
+    
+  <div width="33%">
   
 #### [Node JS E-commerce](https://github.com/Bablu22/MERN_E-commerce-Shop/tree/main/server)
 #### [Node JS Inventory](https://github.com/Bablu22/nodejs-inventory)
@@ -79,6 +81,8 @@
 #### [React Native Planet App](https://expo.dev/@bablu/first-app)
   
 </div>
+  
+  </div>
  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
