@@ -2,7 +2,7 @@
 <img width="30%"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="cover" />
 </div>
 
-<h1> Hello <Developers/>! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
   
@@ -11,13 +11,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects, blogs etc...
+- 🔭 I’m currently working on Github projects, blogs, etc...
 
-- 🌱 I’m currently learning DSA, Node JS, AWS etc... 
+- 🌱 I’m currently learning DSA, Node JS, AWS, etc... 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Programming, JavaScript, Freelancing Opportunites, Open Source...
+- 💬 Talk to me about Programming, JavaScript, Freelancing opportunities, Open Source...
   
 
 <br/>  
