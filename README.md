@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://app.daily.dev/bablu22"><img src="https://api.daily.dev/devcards/1c8a975cb3204f09b6716768273d8a5c.png?r=ojm" width="400" alt="Rj Hridoy's Dev Card"/></a>
+<a href="https://app.daily.dev/bablu22"><img src="https://api.daily.dev/devcards/1c8a975cb3204f09b6716768273d8a5c.png?r=ojm" width="200" alt="Rj Hridoy's Dev Card"/></a>
 </div>
 
 <h1> Hello < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
