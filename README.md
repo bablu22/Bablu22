@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="cover" />
+<a href="https://app.daily.dev/bablu22"><img src="https://api.daily.dev/devcards/1c8a975cb3204f09b6716768273d8a5c.png?r=ojm" width="400" alt="Rj Hridoy's Dev Card"/></a>
 </div>
 
 <h1> Hello < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
