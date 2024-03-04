@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bablu22/bablu22/output/snake.svg" alt="Snake animation" />
 
 ###
 
