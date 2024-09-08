@@ -6,10 +6,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bablu22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<a href="https://app.daily.dev/bablu22"><img src="https://api.daily.dev/devcards/v2/CCiqXqwiWeoqLqN7LTfYb.png?type=default&r=epv" width="356"  height="150" alt="Bablu Mia's Dev Card"/></a>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bablu22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+
+  <!-- Daily Dev Card -->
+  <a href="https://app.daily.dev/bablu22">
+    <img src="https://api.daily.dev/devcards/v2/CCiqXqwiWeoqLqN7LTfYb.png?type=default&r=epv" width="300" height="180" alt="Bablu Mia's Dev Card"/>
+  </a>
+  
 </div>
+
 ###
 
 <div align="left">
