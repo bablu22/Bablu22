@@ -13,10 +13,7 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 
-  <!-- Daily Dev Card -->
-  <a href="https://app.daily.dev/bablu22">
-    <img src="https://api.daily.dev/devcards/v2/CCiqXqwiWeoqLqN7LTfYb.png?type=default&r=epv" width="300" height="180" alt="Bablu Mia's Dev Card"/>
-  </a>
+
   
 </div>
 
@@ -65,7 +62,7 @@
 ###
 
 <br clear="both">
-
+<a href="https://app.daily.dev/bablu22"><img src="https://api.daily.dev/devcards/v2/CCiqXqwiWeoqLqN7LTfYb.png?type=default&r=bbk" width="356" alt="Bablu Mia's Dev Card"/></a>
 
 ###
 
