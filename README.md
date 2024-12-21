@@ -2,124 +2,77 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Welcome Banner" width="100%">
 
   # 👨‍💻 Bablu Mia | Full Stack Developer
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&width=600&lines=👋+Welcome+to+my+GitHub+Profile;🚀+MERN+Stack+Developer;⚡+Cloud+%26+DevOps+Enthusiast;🌟+Always+learning+new+technologies)](https://git.io/typing-svg)
-</div>
 
-<div align="center">
-  <a href="mailto:bablu.mia1@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bablu-mia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile;🚀+MERN+Stack+Developer;⚡+Cloud+%26+DevOps+Enthusiast;🌟+Always+learning+new+technologies" alt="Typing SVG" /></a>
+  </div>
 
----
+  <div align="center">
+    <a href="mailto:bablu.mia1@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/bablu-mia">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/bablumia799">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://bablu-mia.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
+</div>
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from Bangladesh, specializing in building scalable web applications using modern technologies. With expertise in the MERN stack and a strong foundation in cloud technologies, I strive to create efficient and innovative solutions.
-
----
+I'm a passionate Full Stack Developer from Bangladesh, specializing in building scalable web applications using modern technologies. With expertise in the MERN stack and a strong foundation in cloud technologies, I strive to create efficient and innovative solutions for my clients.
 
 ## 💻 Tech Stack
 
-### **Languages**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-</div>
+**Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### **Frontend Development**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" title="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" title="Material UI"/>
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40" alt="Styled Components" title="Styled Components"/>
-</div>
+**Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### **Backend Development**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" title="NestJS"/>
-</div>
+**Database & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### **Databases & ORM**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="Prisma" title="Prisma"/>
-</div>
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### **Cloud & DevOps**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx"/>
-</div>
+## 🌟 Featured Client Projects
 
-### **Testing & Tools**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
-</div>
-
----
+- **[Kalam's Tutorial](https://kalamstutorial.com/)** - An educational platform for students
+- **[Neelabh](https://neelabh.com.bd/)** - E-commerce platform for fashion
+- **[Shop Master](https://shopmaster.softypy.com/)** - Comprehensive e-commerce solution
+- **[Moriyom Fashion](https://moriyom.softypy.com/demo/fashion)** - Fashion retail platform
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu22&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" height="200" alt="Top Languages"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/bablu22/REPO_NAME_1)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/bablu22/REPO_NAME_2)
-</div>
-
----
-
-## 📱 Dev Card
-
-<div align="center">
-  <a href="https://app.daily.dev/bablu22">
-    <img src="https://api.daily.dev/devcards/v2/CCiqXqwiWeoqLqN7LTfYb.png?type=default&r=bbk" width="356" alt="Bablu Mia's Dev Card"/>
-  </a>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bablu22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bablu22/count.svg?" alt="Profile Views Counter"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://github.com/bablu22/bablu22/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
