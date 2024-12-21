@@ -51,6 +51,3 @@ I'm a passionate Full Stack Developer from Bangladesh, specializing in building 
 
 - **[Moriyom Fashion](https://moriyom.softypy.com/demo/fashion)** - A modern fashion retail platform offering a curated collection of trending styles and accessories.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif alt="Snake Animation"/>
-</div>
