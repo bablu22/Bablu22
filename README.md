@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NTY4MTYsIm5iZiI6MTczNDc1NjUxNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDA0NDgzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNTQwNzA5NTNlZDg2MWIxMGQxYjkwM2IxYzUxNzQxZTMzZjZjMTZhZTYxOTFiYTRlZGZhMzA3NzI4ODcxZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0dxAXoW8d4LQgcpXt6T3T_xF4SFPacBLJc8fDpvoO8g" alt="Welcome Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGr7nNh1WYjcw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735145276270?e=1740614400&v=beta&t=9rGXttesRVE_25KsICDxrxzDK9uGYbITe-kS6Mgjr4c" alt="Welcome Banner" width="100%">
 
   # 👨‍💻 Bablu Mia | Full Stack Developer
 
