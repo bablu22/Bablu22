@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGr7nNh1WYjcw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735145276270?e=2147483647&v=beta&t=3AdJqEJAZWVeJdQ8xIAV0SSy-o9sDFq6lo5-XW0-85w" alt="Welcome Banner" width="100%">
 
-  # 👨‍💻 Bablu Mia | Full Stack Developer
+  # 👨‍💻 Bablu Mia | JavaScript Developer
 
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile;🚀+Full+Stack+Developer;⚡+Cloud+%26+DevOps+Enthusiast;🌟+Always+learning+new+technologies" alt="Typing SVG" /></a>
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from Bangladesh, specializing in building scalable web applications using modern technologies. With expertise in the MERN stack and a strong foundation in cloud technologies, I strive to create efficient and innovative solutions for my clients.
+I'm a passionate JavaScript Developer from Bangladesh, specializing in building scalable web applications using modern technologies. With expertise in the MERN stack and a strong foundation in cloud technologies, I strive to create efficient and innovative solutions for my clients.
 
 ## 💻 Tech Stack
 
