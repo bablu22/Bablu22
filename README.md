@@ -68,13 +68,6 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu22&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu22&custom_title=Contribution%20Activity&hide_border=true&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
