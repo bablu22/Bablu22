@@ -107,16 +107,6 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
 
 ---
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu22&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-
 ## 💡 Current Goals for 2026
 
 ```diff
