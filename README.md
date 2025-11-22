@@ -46,7 +46,7 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
   <tr>
     <td align="center" width="25%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,materialui" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui" />
     </td>
     <td align="center" width="25%">
       <h3>Backend</h3>
@@ -109,18 +109,6 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
 
 ---
 
-## 🌟 Featured Projects
-
-<a href="https://github.com/bablu22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=your-repo-name&theme=tokyonight" />
-</a>
-<a href="https://github.com/bablu22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=your-repo-name&theme=tokyonight" />
-</a>
-
-> 🔗 **[View All Projects](https://github.com/bablu22?tab=repositories)**
-
----
 
 ## 📈 Contribution Graph
 
@@ -139,7 +127,7 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
 
 ---
 
-## 💡 Current Goals for 2025
+## 💡 Current Goals for 2026
 
 ```diff
 + Master System Design and Architecture Patterns
@@ -179,9 +167,3 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 ---
 
-### 🎵 Coding Soundtrack
-
-```
-♪ Currently listening to: [Lo-fi Beats] ♪
-☕ Fuel: Strong Coffee + Clean Code
-```
