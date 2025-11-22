@@ -41,13 +41,4 @@ I'm a passionate JavaScript Developer from Bangladesh, specializing in building 
 ### Cloud & DevOps 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🌟 Featured Client Projects
-
-- **[Kalam's Tutorial](https://kalamstutorial.com/)** - An educational platform providing comprehensive learning resources and interactive courses for students.
-
-- **[Neelabh](https://neelabh.com.bd/)** - A sophisticated e-commerce platform specializing in fashion and lifestyle products, featuring a seamless shopping experience.
-
-- **[Shop Master](https://shopmaster.softypy.com/)** - A robust e-commerce solution with advanced inventory management and order processing capabilities.
-
-- **[Moriyom Fashion](https://moriyom.softypy.com/demo/fashion)** - A modern fashion retail platform offering a curated collection of trending styles and accessories.
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=bablu22&theme=dark)](https://git.io/streak-stats)
