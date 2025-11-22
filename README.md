@@ -1,44 +1,187 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGr7nNh1WYjcw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735145276270?e=2147483647&v=beta&t=3AdJqEJAZWVeJdQ8xIAV0SSy-o9sDFq6lo5-XW0-85w" alt="Welcome Banner" width="100%">
-
-  # 👨‍💻 Bablu Mia | JavaScript Developer
-
-  <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile;🚀+JavaScript+Developer;⚡+Cloud+%26+DevOps+Enthusiast;🌟+Always+learning+new+technologies" alt="Typing SVG" /></a>
-  </div>
-
-  <div align="center">
-    <a href="mailto:bablu.mia1@yahoo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/bablu-mia">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/bablumia799">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://bablu-mia.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-  </div>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGr7nNh1WYjcw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735145276270?e=2147483647&v=beta&t=3AdJqEJAZWVeJdQ8xIAV0SSy-o9sDFq6lo5-XW0-85w" alt="Header Banner" width="100%">
+  
+  # Hi there, I'm Bablu Mia 👋
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+JavaScript+Developer;MERN+Stack+Specialist;Cloud+%26+DevOps+Engineer;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <a href="mailto:bablu.mia1@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/bablu-mia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.facebook.com/bablumia799"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+    <a href="https://bablu-mia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  </p>
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate JavaScript Developer from Bangladesh, specializing in building scalable web applications using modern technologies. With expertise in the MERN stack and a strong foundation in cloud technologies, I strive to create efficient and innovative solutions for my clients.
+```javascript
+const bablu = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    role: "Full-Stack JavaScript Developer",
+    code: ["JavaScript", "TypeScript", "Python", "SQL"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "NestJS", "GraphQL"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        cloud: ["AWS", "Docker", "Kubernetes", "CI/CD"],
+        tools: ["Git", "Nginx", "Prisma", "Jest"]
+    },
+    currentFocus: "Building scalable cloud-native applications",
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
 
-## 💻 Tech Stack
+I'm passionate about crafting elegant solutions to complex problems. With expertise across the full stack and a deep understanding of modern web technologies, I transform ideas into production-ready applications that users love.
 
-### Frontend Development 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+---
 
-### Backend Development 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+## 🛠️ Tech Stack
 
-### Database & Tools 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,materialui" />
+    </td>
+    <td align="center" width="25%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,redis" />
+    </td>
+    <td align="center" width="25%">
+      <h3>Database</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+    </td>
+    <td align="center" width="25%">
+      <h3>DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
+    </td>
+  </tr>
+</table>
 
-### Cloud & DevOps 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bablu22&theme=dark)](https://git.io/streak-stats)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bablu22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu22&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bablu22&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bablu22&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💼 What I Do
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+### 🎯 Full-Stack Development
+- Building responsive web applications with React & Next.js
+- Developing RESTful and GraphQL APIs
+- Database design and optimization
+- Real-time features with WebSockets
+      
+    </td>
+    <td valign="top" width="50%">
+      
+### ☁️ Cloud & DevOps
+- AWS cloud infrastructure setup
+- Docker containerization
+- Kubernetes orchestration
+- CI/CD pipeline implementation
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<a href="https://github.com/bablu22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=your-repo-name&theme=tokyonight" />
+</a>
+<a href="https://github.com/bablu22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bablu22&repo=your-repo-name&theme=tokyonight" />
+</a>
+
+> 🔗 **[View All Projects](https://github.com/bablu22?tab=repositories)**
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu22&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Certifications & Learning
+
+- 🏆 AWS Certified Solutions Architect (In Progress)
+- 📚 Advanced Node.js Development
+- 🔐 Web Security Best Practices
+- 🚀 Microservices Architecture
+
+---
+
+## 💡 Current Goals for 2025
+
+```diff
++ Master System Design and Architecture Patterns
++ Contribute to 10+ Open Source Projects
++ Build a SaaS product from scratch
++ Learn Go programming language
++ Share knowledge through technical blogs
+```
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on innovative projects or discussing new technologies. Whether you have a project idea, need technical consultation, or just want to chat about code, feel free to reach out!
+
+<p align="center">
+  <a href="mailto:bablu.mia1@yahoo.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bablu-mia">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://bablu-mia.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bablu22&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/bablu22">bablu22</a> - Let's build something amazing together!</i>
+</p>
+
+---
+
+### 🎵 Coding Soundtrack
+
+```
+♪ Currently listening to: [Lo-fi Beats] ♪
+☕ Fuel: Strong Coffee + Clean Code
+```
