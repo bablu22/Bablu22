@@ -8,7 +8,7 @@
   </a>
   
   <p align="center">
-    <a href="mailto:bablu.mia1@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:bablumia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/bablu-mia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.facebook.com/bablumia799"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
     <a href="https://bablu-mia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
@@ -117,7 +117,7 @@ I'm passionate about crafting elegant solutions to complex problems. With expert
 I'm always interested in collaborating on innovative projects or discussing new technologies. Whether you have a project idea, need technical consultation, or just want to chat about code, feel free to reach out!
 
 <p align="center">
-  <a href="mailto:bablu.mia1@yahoo.com">
+  <a href="mailto:bablumia.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/bablu-mia">
