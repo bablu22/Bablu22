@@ -11,8 +11,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGr7nNh1WYjcw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735145276270?e=2147483647&v=beta&t=3AdJqEJAZWVeJdQ8xIAV0SSy-o9sDFq6lo5-XW0-85w" alt="Header Banner" width="100%">
-  
   # Hi there, I'm Bablu Mia 👋
   
   <a href="https://git.io/typing-svg">
