@@ -23,9 +23,9 @@
 const bablu = {
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "Full-Stack JavaScript Developer",
-    code: ["JavaScript", "TypeScript", "Python", "SQL"],
+    code: ["JavaScript", "TypeScript", "Java", "SQL"],
     technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express", "NestJS", "GraphQL"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         cloud: ["AWS", "Docker", "Kubernetes", "CI/CD"],
