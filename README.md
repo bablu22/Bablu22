@@ -143,3 +143,4 @@ I'm always interested in collaborating on innovative projects or discussing new 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="footer" />
 </div>
+
