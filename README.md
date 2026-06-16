@@ -128,19 +128,7 @@ I'm always interested in collaborating on innovative projects or discussing new 
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bablu22&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/bablu22">bablu22</a> - Let's build something amazing together!</i>
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="footer" />
 </div>
-
