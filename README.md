@@ -81,22 +81,24 @@ const bablu = {
 <table>
   <tr>
     <td valign="top" width="50%">
-      
-### 🎯 Full-Stack Development
-- Building responsive web applications with React & Next.js
-- Developing RESTful and GraphQL APIs
-- Database design and optimization
-- Real-time features with WebSockets
-      
+
+### 🚀 Full-Stack Development
+- Building scalable web applications with React.js & Next.js
+- Developing secure RESTful APIs with Node.js & NestJS
+- Designing relational databases using PostgreSQL & Prisma
+- Authentication, authorization & role-based access control
+- Real-time applications using WebSockets & Socket.IO
+
     </td>
     <td valign="top" width="50%">
-      
-### ☁️ Cloud & DevOps
-- AWS cloud infrastructure setup
-- Docker containerization
-- Kubernetes orchestration
-- CI/CD pipeline implementation
-      
+
+### ☁️ DevOps & Deployment
+- Docker containerization & multi-stage builds
+- CI/CD automation with GitHub Actions
+- Linux server deployment & Nginx reverse proxy
+- Cloud hosting on VPS, AWS & DigitalOcean
+- Monitoring, logging & production optimization
+
     </td>
   </tr>
 </table>
