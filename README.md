@@ -59,7 +59,7 @@ const bablu = {
   <tr>
     <td align="center" width="25%">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,html,css" />
     </td>
     <td align="center" width="25%">
       <h3>⚙️ Backend</h3>
