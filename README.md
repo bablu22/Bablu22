@@ -102,7 +102,6 @@ const bablu = {
 </td>
   </tr>
 </table>
----
 
 ## 💡 Current Goals for 2026
 
