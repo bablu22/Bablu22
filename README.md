@@ -60,8 +60,6 @@ const bablu = {
     <td align="center" width="25%">
       <h3>🎨 Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
-      <br><br>
-      <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
     </td>
     <td align="center" width="25%">
       <h3>⚙️ Backend</h3>
