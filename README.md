@@ -57,19 +57,21 @@ const bablu = {
   <tr>
     <td align="center" width="25%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,vite,graphql" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
     </td>
     <td align="center" width="25%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,redis" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,java,spring" />
     </td>
     <td align="center" width="25%">
       <h3>Database</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
     </td>
     <td align="center" width="25%">
-      <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
+      <h3>DevOps & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx,cloudflare,git,github" />
     </td>
   </tr>
 </table>
