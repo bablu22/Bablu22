@@ -35,18 +35,63 @@ I'm a **Full-Stack JavaScript Developer** based in Dhaka, Bangladesh, focused on
 
 ```javascript
 const bablu = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full-Stack JavaScript Developer",
-    code: ["JavaScript", "TypeScript", "Java", "SQL"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "NestJS", "GraphQL"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-        tools: ["Git", "Nginx", "Prisma", "Jest"]
-    },
-    currentFocus: "Building scalable cloud-native applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+  name: "Bablu Mia",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  role: "Full-Stack Software Engineer",
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "SQL"
+  ],
+
+  frontend: {
+    frameworks: ["React", "Next.js"],
+    styling: ["Tailwind CSS"],
+    stateManagement: ["Redux Toolkit", "TanStack Query"],
+  },
+
+  backend: {
+    runtime: ["Node.js"],
+    frameworks: ["Express.js", "NestJS", "Spring Boot"],
+    api: ["REST", "GraphQL"],
+    orm: ["Prisma"],
+  },
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+    "Firebase"
+  ],
+
+  devOps: [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "Nginx",
+    "Linux",
+    "Cloudflare"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code"
+  ],
+
+  currentFocus: [
+    "Scalable Backend Systems",
+    "Cloud-Native Applications",
+    "Microservices with Spring Boot",
+    "High-Performance APIs"
+  ],
+
+  motto: "Build clean. Build scalable. Keep learning. 🚀"
 };
 ```
 ---
