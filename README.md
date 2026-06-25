@@ -77,32 +77,31 @@ const bablu = {
 </table>
 
 ## 💼 What I Do
-
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🚀 Full-Stack Development
-- Building scalable web applications with React.js & Next.js
-- Developing secure RESTful APIs with Node.js & NestJS
-- Designing relational databases using PostgreSQL & Prisma
-- Authentication, authorization & role-based access control
-- Real-time applications using WebSockets & Socket.IO
+### 🚀 Full-Stack Engineering
+- Building scalable web applications with React, Next.js & TypeScript
+- Developing RESTful & GraphQL APIs using Node.js, NestJS & Spring Boot
+- Designing relational databases with PostgreSQL, MySQL & Prisma ORM
+- Authentication, authorization & secure API architecture
+- Real-time applications with WebSockets & Socket.IO
 
-    </td>
-    <td valign="top" width="50%">
+</td>
 
-### ☁️ DevOps & Deployment
-- Docker containerization & multi-stage builds
+<td valign="top" width="50%">
+
+### ☁️ Cloud, DevOps & Deployment
+- AWS cloud infrastructure & application deployment
+- Docker containerization & Kubernetes orchestration
 - CI/CD automation with GitHub Actions
-- Linux server deployment & Nginx reverse proxy
-- Cloud hosting on VPS, AWS & DigitalOcean
-- Monitoring, logging & production optimization
+- Nginx reverse proxy & Linux server administration
+- Cloudflare, SSL, DNS & performance optimization
 
-    </td>
+</td>
   </tr>
 </table>
-
 ---
 
 ## 💡 Current Goals for 2026
