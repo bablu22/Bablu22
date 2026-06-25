@@ -67,7 +67,7 @@ const bablu = {
     </td>
     <td align="center" width="25%">
       <h3>🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis" />
     </td>
     <td align="center" width="25%">
       <h3>☁️ DevOps & Cloud</h3>
