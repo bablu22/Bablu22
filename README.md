@@ -35,7 +35,7 @@ I'm a **Full-Stack JavaScript Developer** based in Dhaka, Bangladesh, focused on
 
 ```javascript
 const bablu = {
-  role: "Full-Stack Software Engineer",
+  role: "Full-Stack Software Developer",
   code: ["JavaScript", "TypeScript", "Java", "SQL"],
   frontend: ["React", "Next.js", "Tailwind", "Redux", "TanStack Query"],
   backend: ["Node.js", "NestJS", "Express", "Spring Boot", "GraphQL", "Prisma"],
