@@ -109,6 +109,11 @@ const bablu = {
 
 ---
 
+| Project | Live | Highlights | Stack |
+|---|---|---|---|
+| **Online Learning Platform — Kalam’s Tutorial** | [kalamstutorial.com](https://kalamstutorial.com) | Independently delivered a complete online learning platform from design to production, owning backend services, admin dashboard, and client-side development. Built APIs and frontend features with a focus on performance, responsiveness, and reliable content delivery | `Node.js` `Express.js` `MongoDB` `React.js` `Next.js` |
+| **Nazrana Designers + MisoGlowBD — E-Commerce Platforms** | [nazranadesigners.com](https://www.nazranadesigners.com) · [misoglowbd.com](https://misoglowbd.com) | **Independently delivered** full e-commerce platforms from design to production, owning application development, deployment, maintenance, and performance optimization for real client-facing applications | `Next.js` `React.js` `NestJS` `TypeScript` `MongoDB` |
+
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on innovative projects or discussing new technologies. Whether you have a project idea, need technical consultation, or just want to chat about code, feel free to reach out!
