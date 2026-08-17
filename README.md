@@ -26,7 +26,6 @@
   </p>
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -44,7 +43,6 @@ const bablu = {
   currentFocus: "Scalable Full-Stack & Cloud Applications 🚀"
 };
 ```
----
 
 ## 🛠️ Tech Stack
 
