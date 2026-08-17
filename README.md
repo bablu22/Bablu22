@@ -48,8 +48,6 @@ const bablu = {
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">💻 Tech Stack</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="25%">
