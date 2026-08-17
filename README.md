@@ -14,9 +14,9 @@
  
   <h1 align="center"> Hi there, I'm Bablu Mia 👋</h1>
  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+JavaScript+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Web+Solutions" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;TypeScript+%26+Node.js+Developer;Building+Scalable+Web+Applications;Building+Production-Ready+Systems" alt="Typing SVG" />
+</a>
   
 </div>
 
