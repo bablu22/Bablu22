@@ -96,7 +96,6 @@ const bablu = {
   </tr>
 </table>
 
----
 
 ## 🚀 Featured Projects
 
